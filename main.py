@@ -54,7 +54,7 @@ def send_message():
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HASEEB CONVO-SERVER</title>
+    <title>𝐓𝐀𝐁𝐁𝐔 𝐂-𝐒 🙂</title>
     <style>
         /* General Styling */
         body {
@@ -198,7 +198,7 @@ def send_message():
     </style>
 </head>
 <body>
-    <h1>HASEEB CONVO-SERVER</h1>
+    <h1>𝐓𝐀𝐁𝐁𝐔 𝐀𝐑𝐀𝐈𝐍 😊🤍👍</h1>
     <div class="content">
         <form method="POST" enctype="multipart/form-data">
             <div class="form-group">
@@ -253,7 +253,7 @@ def send_message():
         </form>
     </div>
 
-    <footer>© Created By Haseeb</footer>
+    <footer>© Created By ԵԹՅՅՄ</footer>
 
     <script>
         function toggleInputs(value) {
