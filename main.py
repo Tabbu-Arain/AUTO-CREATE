@@ -45,10 +45,6 @@ def send_message():
                 print(e)
                 time.sleep(30)
 
-    return '''
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
